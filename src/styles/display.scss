@@ -1,0 +1,16 @@
+.display-container{
+    margin: 3px auto;
+    max-width: 200vw;
+    height: 6vh;
+
+    .display-input{
+        background: #f0f7da;
+        color: #1f192f;
+        font-size: 1.5em;
+        border:0;
+        padding: 0.3em;
+        text-align: right;
+        width: 175px;
+        height: 6.4vh;
+    }
+}
